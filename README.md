@@ -25,6 +25,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 
 *Ref 1: Network Diagram*
+
 ![HomeLabTopology](https://github.com/GivenXombiE/Detection-Lab/assets/104403111/cbef54c7-5c06-4e1d-b17a-530f2a128f55)
 
 *Ref 2: Using Crowbar to brute force target machine*
