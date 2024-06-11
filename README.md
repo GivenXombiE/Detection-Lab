@@ -34,3 +34,8 @@ The Detection Lab project aimed to establish a controlled environment for simula
 *Ref 3: Using Splunk to detect brute force attack*
 ![SplunkEx](https://github.com/GivenXombiE/Detection-Lab/assets/104403111/0f2773d5-6602-48c5-8372-24e89c404d6b)
 
+*Ref 4: Using VirtualBox to run the required VMs needed on a NAT Network*
+
+![VMs1](https://github.com/GivenXombiE/Detection-Lab/assets/104403111/21bf39a6-8305-4811-ae1c-bf6797f3459c)
+
+
